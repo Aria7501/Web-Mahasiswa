@@ -1,2 +1,2 @@
-# We-Mahasiswa
+# Web-Mahasiswa
 Web Mahasiswa
